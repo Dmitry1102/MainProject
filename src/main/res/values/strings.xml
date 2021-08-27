@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">School orgonizer</string>
+    <string name="call_schedule">Расписание звонков</string>
+    <string name="lesson_schedule">Расписание уроков</string>
+    <string name="alarm_clock">Будильник</string>
+    <string name="notes">Заметки</string>
+    <string name="school_news">Новости школы</string>
+    <string name="map">Местоположение</string>
+    <string name="sky">Небо:</string>
+    <string name="find">Найти</string>
+    //lesson
+    <string name="lesson1">1-й урок: с 08:30 до 09:15 </string>
+    <string name="lesson2">2-й урок: с 09:25 до 10:10 </string>
+    <string name="lesson3">3-й урок: с 10:20 до 11:05 </string>
+    <string name="lesson4">4-й урок: с 11:40 до 12:25 </string>
+    <string name="lesson5">5-й урок: с 12:35 до 13:20 </string>
+    <string name="lesson6">6-й урок: с 13:30 до 14:15 </string>
+    <string name="lesson7">7-й урок: с 14:25 до 15:10 </string>
+    <string name="lesson">Расписание звонков: </string>
+    //alarm
+    <string name="START">запустить будильник</string>
+    <string name="STOP">СТОП</string>
+    <string name="alarm">БУДИЛЬНИК</string>
+    <string name="get_up">Пора вставать</string>
+    <string name="add_new_alarm">"Будильник сработает"</string>
+    <string name="stop_new_alarm">"Будильник выключен"</string>
+    <string name="Set_the_date">Установить дату</string>
+    <string name="Set_the_time">Установить время</string>
+    <string name="add_new_note">Создать заметку</string>
+    <string name="singl">"Выбрать мелодию"</string>
+    <string name="ringtone">"Выбор мелодии"</string>
+    <string name="ringtone1">"ringtone1"</string>
+    <string name="ringtone2">"ringtone2"</string>
+    <string name="ringtone3">"ringtone3"</string>
+    <string name="ringtone4">"ringtone4"</string>
+
+    <string name="Monday">Понедельник</string>
+    <string name="Tuesday">Вторник</string>
+    <string name="Wednesday">Среда</string>
+    <string name="Thursday">Четверг</string>
+    <string name="Friday">Пятница</string>
+
+    <string name="Edit">Редактировать</string>
+
+    <string-array name="day_items">
+        <item> Понедельник </item>
+        <item> Вторник</item>
+        <item> Среда </item>
+        <item> Четверг</item>
+        <item>Пятница</item>
+    </string-array>
+
+    <string-array name="id_items">
+        <item> 1 </item>
+        <item> 2 </item>
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+        <item> 7 </item>
+    </string-array>
+
+    <string name="choose">Choose Lesson</string>
+    <string name="type_day"> Input Day</string>
+    <string name="type_time"> Input Time</string>
+    <string name="type_week"> Input Week</string>
+    <string name="add"> Add</string>
+    <string name="back">Back</string>
+    <string name="widget">widget</string>
+
+    <string-array name="spinner_items">
+        <item> Нет урока </item>
+        <item> Математика </item>
+        <item> Русский язык</item>
+        <item> Русская литература </item>
+        <item> Белорусский язык</item>
+        <item> Белорусская литература </item>
+        <item> Английский язык</item>
+        <item> География </item>
+        <item> История Беларуси </item>
+        <item> Физическая культура</item>
+        <item> Трудовое обучение </item>
+        <item> Музыка</item>
+        <item> Информатика </item>
+        <item> Классный час</item>
+        <item> Физика </item>
+        <item> Химия </item>
+        <item> Допризыв. подготовка </item>
+        <item>Доп. занятие</item>
+    </string-array>
+
+
+</resources>
